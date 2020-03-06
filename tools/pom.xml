@@ -8,7 +8,7 @@
     <repository>
       <id>nexus</id>
       <layout>default</layout>
-      <url>http://g-pc-4584:8081/repository/maven-public</url>
+      <url>http://http://g-pc-00654426:8081/repository/maven-public</url>
       <snapshots>
         <enabled>true</enabled>
       </snapshots>
