@@ -2,7 +2,7 @@
 
 GROUP=jp.adfully
 ARTIFACT=adfurikunsdk
-VERSION=3.3.1
+VERSION=3.3.2
 PACKAGING=aar
 
 mvn clean dependency:copy -DgroupId=$GROUP -DartifactId=$ARTIFACT -Dversion=$VERSION -Dtype=$PACKAGING -U
