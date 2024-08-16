@@ -6,6 +6,58 @@
     <latest>3.23.0-alpha01</latest>
     <release>3.23.0-alpha01</release>
     <versions>
+      <version>3.0.0</version>
+      <version>3.0.1</version>
+      <version>3.0.2</version>
+      <version>3.1.0</version>
+      <version>3.1.1</version>
+      <version>3.1.2</version>
+      <version>3.2.0</version>
+      <version>3.2.1</version>
+      <version>3.2.2</version>
+      <version>3.2.3</version>
+      <version>3.3.0</version>
+      <version>3.3.1</version>
+      <version>3.3.2</version>
+      <version>3.4.0</version>
+      <version>3.4.1</version>
+      <version>3.5.0</version>
+      <version>3.6.0</version>
+      <version>3.6.1</version>
+      <version>3.7.0</version>
+      <version>3.7.1</version>
+      <version>3.8.0</version>
+      <version>3.8.1</version>
+      <version>3.9.0</version>
+      <version>3.10.0</version>
+      <version>3.10.1</version>
+      <version>3.10.2</version>
+      <version>3.10.3</version>
+      <version>3.10.4</version>
+      <version>3.10.5</version>
+      <version>3.11.0</version>
+      <version>3.12.0</version>
+      <version>3.13.0</version>
+      <version>3.14.0</version>
+      <version>3.15.0</version>
+      <version>3.15.1</version>
+      <version>3.15.2</version>
+      <version>3.15.2.1</version>
+      <version>3.16.0</version>
+      <version>3.16.1</version>
+      <version>3.17.0</version>
+      <version>3.17.1</version>
+      <version>3.17.2</version>
+      <version>3.18.0</version>
+      <version>3.18.0.1</version>
+      <version>3.18.1</version>
+      <version>3.19.0</version>
+      <version>3.19.1</version>
+      <version>3.19.2</version>
+      <version>3.19.4</version>
+      <version>3.20.0</version>
+      <version>3.20.1</version>
+      <version>3.21.0</version>
       <version>3.22.0</version>
       <version>3.23.0-alpha01</version>
     </versions>
