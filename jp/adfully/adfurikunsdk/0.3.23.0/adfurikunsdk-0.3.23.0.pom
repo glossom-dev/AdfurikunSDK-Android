@@ -4,6 +4,6 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>jp.adfully</groupId>
   <artifactId>adfurikunsdk</artifactId>
-  <version>3.23.0</version>
+  <version>0.3.23.0</version>
   <packaging>aar</packaging>
 </project>
