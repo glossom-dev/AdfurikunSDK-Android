@@ -3,8 +3,8 @@
   <groupId>jp.adfully</groupId>
   <artifactId>adfurikunsdk</artifactId>
   <versioning>
-    <latest>4.3.0-alpha01</latest>
-    <release>4.3.0-alpha01</release>
+    <latest>4.3.0</latest>
+    <release>4.3.0</release>
     <versions>
       <version>3.0.0</version>
       <version>3.0.1</version>
@@ -74,6 +74,7 @@
       <version>4.1.0</version>
       <version>4.2.0</version>
       <version>4.3.0-alpha01</version>
+      <version>4.3.0</version>
     </versions>
     <lastUpdated>20250121094116</lastUpdated>
   </versioning>
